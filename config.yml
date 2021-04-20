@@ -1,4 +1,4 @@
-baseURL: "https://adityatelange.github.io/hugo-PaperMod/"
+baseURL: "https://hugo-paper-mod-three.vercel.app/"
 title: PaperMod
 paginate: 5
 theme: hugo-PaperMod
